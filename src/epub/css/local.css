@@ -1,2 +1,8 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+/* BEGIN Bespoke rules */
+#endnotes ul{
+	list-style-type: none;
+}
+/* end bespoke rules */
